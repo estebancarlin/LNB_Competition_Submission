@@ -67,7 +67,7 @@ CompetitionLNB/
 
 ## Results
 
-We visualize prediction accuracy using similarity scores between predicted and true LAI maps. See the `Results_Sub_20_04` folder for qualitative evaluation.
+We visualize prediction accuracy using similarity scores between predicted and true LAI maps. See the `Results_Sub 20_04` folder for qualitative evaluation.
 
 - Example Similarity Scores:  
   - Image 1: 0.94  
@@ -75,14 +75,6 @@ We visualize prediction accuracy using similarity scores between predicted and t
   - Image 3: 0.98, 0.99  
   - Image 4: 0.87
   - Image 5: 0.96
-
-> Visual results :
-
-![Result_1](./Results_Sub 20_04/Results_1.png)
-![Result_2](./Results_Sub 20_04/Results_2.png)
-![Result_3](./Results_Sub 20_04/Results_3.png)
-![Result_4](./Results_Sub 20_04/Results_4.png)
-![Result_5](./Results_Sub 20_04/Results_5.png)
 
 These results demonstrate the model's generalization to both cloudy and clear conditions.
 
