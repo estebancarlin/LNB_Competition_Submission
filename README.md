@@ -12,6 +12,13 @@ This project was developed for the **"Leaf Nothing Behind"** competition hosted 
 
 The competition challenged participants to design models capable of inferring reliable vegetation index maps even under **cloud occlusion**, leveraging both radar and optical data. You can find more context in the official competition rules [here (PDF)](https://drive.google.com/drive/folders/1u31bpBWvbvrKgCgbavGWp_mNOzZb3zQ4).
 
+## Competition Info
+Organized by: Jules Salzinger under Transfer Learning
+
+Official site: [transfer-learning.org/competition](https://transfer-learning.org/competition)
+
+Drive (submission guide, resources): [Google Drive](https://drive.google.com/drive/folders/1u31bpBWvbvrKgCgbavGWp_mNOzZb3zQ4)
+
 ---
 
 ## Data Description
@@ -90,13 +97,6 @@ Inference
 ```bash
 python main.py --mode infer --csv_path PATH_TO_CSV --save_infers_under OUTPUT_DIR
 ```
-
-## Competition Info
-Organized by: Jules Salzinger under Transfer Learning
-
-Official site: [transfer-learning.org/competition](https://transfer-learning.org/competition)
-
-Drive (submission guide, resources): [Google Drive](https://drive.google.com/drive/folders/1u31bpBWvbvrKgCgbavGWp_mNOzZb3zQ4)
 
 ## License & Publication
 Participation implies agreement to co-publish the winning method in a scientific paper with the organizers. See the official rules PDF for more details.
