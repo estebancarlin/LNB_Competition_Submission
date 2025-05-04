@@ -1,6 +1,7 @@
 # README.md
 
 Title: Leaf Area Index Prediction - Transfer Learning Competition 2023
+
 Description: UNet-based deep learning solution for cloud-robust satellite image prediction
 
 ---
